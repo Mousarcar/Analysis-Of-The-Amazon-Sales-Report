@@ -33,4 +33,6 @@
 * New: Potentially a column to indicate if the product is new.
 * Pendings: The number of pending items or status within the order.
 ## Internship Completion Certificate
+![Alt text](https://github.com/Mousarcar/Analysis-Of-The-Amazon-Sales-Report/blob/main/innobyte.PNG)
+
 
