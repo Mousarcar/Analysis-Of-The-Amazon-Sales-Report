@@ -32,3 +32,5 @@
 * fulfilled-by: Indicates who fulfilled the order (e.g., Amazon, Third-party).
 * New: Potentially a column to indicate if the product is new.
 * Pendings: The number of pending items or status within the order.
+## Internship Completion Certificate
+
