@@ -8,9 +8,7 @@
 * Pandas
 * Matplotlib
 * Seaborn
-* sklearn.preprocessing 
-* sklearn.cluster 
-* warnings
+* sklearn
 ## Overview of the Features
 * index: The unique identifier for each row.
 * Order ID: The unique identifier for each order.
